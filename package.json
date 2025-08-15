@@ -1,0 +1,24 @@
+{
+  "name": "outil-analyse-reviews",
+  "version": "1.0.0",
+  "description": "Un outil web simple pour analyser les commentaires de code et fournir des statistiques sur les revues de code.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "client": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "cors": "^2.8.5",
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "^4.0.3"
+  },
+  "license": "MIT"
+}
