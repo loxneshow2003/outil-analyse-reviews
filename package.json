@@ -21,5 +21,9 @@
     "react-scripts": "^5.0.0"
   },
   "license": "MIT",
-  "author": "Votre Nom"
+  "author": "Votre Nom",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VotreNom/outil-analyse-reviews.git"
+  }
 }
