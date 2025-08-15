@@ -11,14 +11,14 @@
     "eject": "react-scripts eject"
   },
   "dependencies": {
-    "express": "^4.18.2",  // Updated to latest version for security
+    "express": "^4.18.2",
     "cors": "^2.8.5",
-    "axios": "^0.21.1"  // Consider updating axios to a later version if possible
+    "axios": "^0.21.1"
   },
   "devDependencies": {
-    "react": "^18.0.0",  // Updated to latest version
-    "react-dom": "^18.0.0",  // Updated to match react version
-    "react-scripts": "^5.0.0"  // Updated to latest version
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-scripts": "^5.0.0"
   },
   "license": "MIT",
   "author": "Votre Nom"
