@@ -10,6 +10,7 @@ app.use(express.json());
 
 // Define a route for the root URL
 app.get('/', (req, res) => {
+  // Send a response indicating the API is running
   res.send('API est en cours d\'exécution');
 });
 
